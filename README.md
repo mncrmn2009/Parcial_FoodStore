@@ -50,10 +50,6 @@ Este proyecto integrador es una aplicación full-stack que implementa una arquit
 
 </div>
 
-> 📌 **Nota:** Reemplaza `VIDEO_ID` con el ID de tu video de YouTube
->
-> Para obtener el ID: Si tu URL es `https://www.youtube.com/watch?v=aBcDeFgHiJk`, el ID es `aBcDeFgHiJk`
-
 ---
 
 ## 🚀 Inicio Rápido
